@@ -1,7 +1,7 @@
 name: flutter_application_1
 description: A new Flutter project.
 
-publish_to: 'none' # Prevents accidental publishing
+publish_to: 'none' 
 
 version: 1.0.0+1
 
@@ -15,7 +15,7 @@ dependencies:
   url_launcher: ^6.2.4
   intl: ^0.20.2
   http: ^1.4.0
-  local_auth: ^2.1.6  # ✅ For fingerprint authentication
+  local_auth: ^2.1.6  
 
 dev_dependencies:
   flutter_test:
